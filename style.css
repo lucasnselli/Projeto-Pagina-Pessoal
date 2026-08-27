@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #12002b;
+}
+
+header {
+    margin: 20px;
+    padding: 30px;
+    color: white;
+    background-color: #6c2bd9;
+    border-radius: 10px;
+    text-align: center;
+}
+
+main {
+    background-color: #24104f;
+    color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+footer {
+    background-color: #6c2bd9;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.foto-perfil {
+    border-radius: 50%;
+    border: 10px solid #000000;
+}
+
+.texto-instagram {
+    font-family: Arial, sans-serif;
+    background-color: #12002b;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color: #ff4fc3;
+    text-align: center;
+}
+
+.link-instagram {
+    color: #00e5ff;
+    border-bottom: 2px solid #00e5ff;
+}
+
+.hobbies-list {
+    color: #b8f7ff;
+}
+
+.Conhecimentos-list {
+    color: #b8f7ff;
+}
